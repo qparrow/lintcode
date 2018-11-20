@@ -27,7 +27,7 @@ https://leetcode-cn.com/problems/rotate-list/description/
     向右旋转 4 步: 2->0->1->NULL
 
 
-### 解题思路：
+#### 解题思路：
     通过给出的两个示例，我们可以看出：
 
     1. 在k小于链表内元素个数的情况下，我们的工作就是将链表最后k个元素保序的移动到链表的最前面，
