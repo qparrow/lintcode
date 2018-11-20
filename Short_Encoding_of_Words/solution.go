@@ -37,9 +37,3 @@ func minimumLengthEncoding(words []string) int {
 
 }
 
-
-
-func main() {
-	s := []string{"time", "me", "bell"}
-	minimumLengthEncoding(s)
-}
